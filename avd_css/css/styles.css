@@ -123,4 +123,6 @@ iframe {
     margin: 20px auto;
     border-radius: 20px;
     border: 2px solid #000000;
+    width: 50%;
+    height: 450px;
 }
